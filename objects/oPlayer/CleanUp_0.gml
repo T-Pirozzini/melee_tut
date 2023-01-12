@@ -1,3 +1,3 @@
 /// @description Insert description here
 
-game_restart();
+ds_list_destroy(hitByAttack);
